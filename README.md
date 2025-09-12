@@ -1,6 +1,6 @@
 # meu-site
 # TECH Celulares
-<h2 align="left">Hi 👋! feito por felipe....</h2>
+<h2 align="left">OI 👋! feito por FelipeJR Shelby e Jackson....</h2>
 
 ###
 
