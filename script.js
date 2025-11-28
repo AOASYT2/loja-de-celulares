@@ -10,7 +10,7 @@
                 id: 2,
                 name: "Samsung Galaxy S24 Ultra",
                 price: 8499,
-                image: "/imagens/image.png"
+                image: "imagens/image.png"
             },
             {
                 id: 3,
