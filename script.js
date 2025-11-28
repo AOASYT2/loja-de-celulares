@@ -16,61 +16,61 @@
                 id: 3,
                 name: "Google Pixel 8 Pro",
                 price: 6999,
-                image: "/imagens/2image.png"
+                image: "imagens/2image.png"
             },
             {
                 id: 4,
                 name: "OnePlus 12",
                 price: 5499,
-                image: "/imagens/3image.png"
+                image: "imagens/3image.png"
             },
             {
                 id: 5,
                 name: "Xiaomi 14 Ultra",
                 price: 6299,
-                image: "/imagens/4image.png"
+                image: "imagens/4image.png"
             },
             {
                 id: 6,
                 name: "Asus ROG Phone 8",
                 price: 7499,
-                image: "/imagens/5image.png"
+                image: "imagens/5image.png"
             },
             {
                 id: 7,
                 name: "Motorola Edge 50 Pro",
                 price: 4299,
-                image: "/imagens/6image.png"
+                image: "imagens/6image.png"
             },
             {
                 id: 8,
                 name: "Sony Xperia 1 V",
                 price: 8999,
-                image: "/imagens/7image.png"
+                image: "imagens/7image.png"
             },
             {
                 id: 9,
                 name: "Nothing Phone (2)",
                 price: 4999,
-                image: "/imagens/8image.png"
+                image: "imagens/8image.png"
             },
             {
                 id: 10,
                 name: "OPPO Find X6 Pro",
                 price: 6999,
-                image: "/imagens/9image.png"
+                image: "imagens/9image.png"
             },
             {
                 id: 11,
                 name: "Vivo X100 Pro",
                 price: 5799,
-                image: "/imagens/10image.png"
+                image: "imagens/10image.png"
             },
             {
                 id: 12,
                 name: "Realme GT 5 Pro",
                 price: 3999,
-                image: "/imagens/11image.png"
+                image: "imagens/11image.png"
             }
         ];
         // Cart state
