@@ -4,7 +4,7 @@
                 id: 1,
                 name: "iPhone 15 Pro Max",
                 price: 2000,
-                image: "/imagens/2 logo.png"
+                image: "imagens/logo.png"
             },
             {
                 id: 2,
